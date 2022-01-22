@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <icons>
+    <icon drawable="@array/grayscale_clock_icons" package="com.google.android.deskclock" />
+    <icon drawable="@array/grayscale_calendar_icons" package="com.google.android.calendar" />
     <icon drawable="@drawable/aegis_authenticator" package="com.beemdevelopment.aegis" name="Aegis Authenticator" />
     <icon drawable="@drawable/amazon_music" package="com.amazon.mp3" name="Amazon Music" />
     <icon drawable="@drawable/amazon_prime_video" package="com.amazon.avod.thirdpartyclient" name="Amazon Prime Video" />
@@ -20,6 +22,7 @@
     <icon drawable="@drawable/browser" package="org.lineageos.jelly" name="Browser" />
     <icon drawable="@drawable/bundle" package="com.dwarfplanet.bundle" name="Bundle" />
     <icon drawable="@drawable/calculator" package="com.android.calculator2" name="Calculator" />
+    <icon drawable="@drawable/calculator" package="com.google.android.calculator" />
     <icon drawable="@drawable/calculator" package="com.miui.calculator" name="Calculator" />
     <icon drawable="@drawable/calculator" package="com.oneplus.calculator" name="Calculator" />
     <icon drawable="@drawable/calculator" package="com.sec.android.app.popupcalculator" name="Calculator" />
